@@ -1,4 +1,4 @@
-#UI SICA
+UI SICA
 Este repositorio contiene el proyecto de la interfaz de usuario de SICA
 * Desarrollado con Javascript 
 * Utilizando React versión 18
